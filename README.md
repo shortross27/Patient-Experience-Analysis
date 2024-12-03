@@ -4,7 +4,7 @@
 This project demonstrates data analysis and visualization skills using Power BI. It involves exploring patient experience data to uncover actionable insights and trends, focusing on factors that impact patient satisfaction.
 
 ## Dataset Details
-- **Source:** [Provide brief context, e.g., “Patient Experience Survey Data”].
+- **Source:** The dataset was provided as part of a school project to analyze patient experience survey data. It includes anonymized responses collected from patients regarding their satisfaction with various aspects of healthcare services. This project focuses on leveraging Power BI to uncover trends and actionable insights from the data.
 - **Description:** Includes variables like demographics, wait times, treatment satisfaction, and survey responses.
 - **File Format:** Excel (.xlsx).
 - **Preprocessing:** The dataset was cleaned prior to analysis to ensure accuracy.
